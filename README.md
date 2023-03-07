@@ -1,4 +1,4 @@
-# Tools for inspecting Loki chunks
+# Tools for inspecting all Loki chunks in folder
 
 This tool can parse Loki chunks and print details from them. Useful for Loki developers.
 
